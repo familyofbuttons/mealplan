@@ -1,8 +1,8 @@
 {
   "name": "Meals",
   "short_name": "Meals",
- "start_url": "/mealplan/"
-  "scope": "/",
+  "start_url": "/mealplan/",
+  "scope": "/mealplan/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
